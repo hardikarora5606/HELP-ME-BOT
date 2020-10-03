@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gentle-studio-286112",
+  "private_key_id": "ac39879fcd6de8533eef50e311afa462c0e41bea",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQD35mIR0+E1uWdv\nDpebris+zrmammGcFcdbFwdfZWBVe1bAddaxkjouiALO67acwe0Ckz8dLWkaEsc1\nf/LLh0WxjZW61oQmKIsgxmF4qVFlEx2d27CKXIrCtErYFs3EwvkDbdUx09uUJ7iX\nEY6SIH93Di5eJNwL7mrLqG5fQ2Wak8avTFUpaxtgCcpyJQnzxhibM7kzUYV7dA4j\n1eLo9q7Zg2TUaVnlD2keRg3A+9h9BSTPIf8/KlBaikLO3eVX+TUT8i8tT8RR2EF3\nflNDGuEYB1H8sg5Jkuzioicm6ezS6IhbX+epoiMCfSFhW89RgoWbDO2fwQmKpYus\nTp7K4kQdAgMBAAECggEAKdGH5qj++1Cg9beY9K6vZeN6pO15HNsBq8iZOksAMrth\nOYtHYeIghXv1OVHDFvOR11belT31VmwnhctlOldB9v9C7GdGmKdLPQaqJ7AsZmgQ\nnXITeGu/DrRaUdSa9p/LYPw0tDigeIAw3+8axWTNC9jtEn2WTz7zbhKmN9THPYlu\nQF6wYsN7j4d9fKB61RnZLqNzDaVBPFGJNeMjoWftk7Zsb6VqRyMoaHUFnACDvmvn\nEEvl5U/5rkOQtILqoqUyJtDf6XmZKsyWHLlbOa+H/JsXvqO1q4e+iHf4CpBduwvd\neFs6Vg7f8JxmtOyvYVdExQDDZ8PasIvK8kAQNlWsYQKBgQD/3MvLaspVUA7WFm7d\ndgtt7ncdf/akL9ndHzc4+hjE/IgjifHTKV7TYcy1WUtYtsfAr8TBxWLFsX90yqGi\ntBBySlrf6oFN2AHO/MT8DSlK2iJUXyb0LNId7Q9Ip8kIVZK/mgMLs9IelX/uHLAD\nVIVQ0l5YR8kfpw0WbyaHjpLgbQKBgQD4CH3Psx9h8pgi6RRB09GPsszwtCWQ/S23\njjonvO4HyfhwKxsOFAIC9b164jRU3jPou1HvhDnLAUibyiVg/wgVfQxzM9AUljWY\nyJwMtKWV0mE8ssFWZ5tIaDIB/msogxZNS2bqftgiK3kfjhbfzClTwp1GxmeJpNT2\n6TFvXomEcQKBgQC49NRBHNZcq32+FwNXhfCnLB3hLlKNx6V26gzSXEAxjdef0SUF\nnz9UELuZUI5d9+sYCDd0V4qaHEBlneEQK5hD9ioQ+YU1T3OnPCPtjFoQKPVuBkaz\ndf8B8Q7+V4PESY/Gf7+54uh+gVW0O/qkvaGNljTrHiFuhyS31euFTHQyVQKBgQD2\nuzOz7iJ0w+dVKvjMttILGTlG5F1OSpw0sRXmu8kpFF+/7RFfwsVxflS7rdOS7OtE\nQzqxgZ4f9CnvV3oxb+Dxx1AgNVVzdSzhzAV3mifxzrKNt+AdfLj6oTPFyfl89lG0\nGCLLd9y2uPonSqg0fhpKSRk881bBlKeI6tYTTD6N8QKBgQCBe0tyRCKuByt+PPzx\nLgLflkNPKyBzIHO8SwTU6jA343zONZRym+3BojOnxaFoFRhRck9O629s+hsjqu1b\nAAEziMtmO+G9BRozNYImH2ZtxYFsOCdjkvdlCoyEoK5GB/8tvrMiS0UbSuJtWcsM\nizSxtify4YI/hQD8d7OFVEBt1Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "uttkarsh@gentle-studio-286112.iam.gserviceaccount.com",
+  "client_id": "116237990261911547401",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/uttkarsh%40gentle-studio-286112.iam.gserviceaccount.com"
+}
