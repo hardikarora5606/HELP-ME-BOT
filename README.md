@@ -14,7 +14,7 @@ So taking in the problems that are being faced by our fresher’s and parents an
 Techniques Utilized
 
 
-
+https://en.wikipedia.org/wiki/Image
 *Conclusion*
 Currently, there are no similar applications that have been implemented like ours. There have been students from different universities that have thought of it and some have even written a paper on this application, but there aren’t any applications that are in any way similar to the one that we are creating this semester. So if we can develop this perfectly it would be great for all the people In our university.
 
